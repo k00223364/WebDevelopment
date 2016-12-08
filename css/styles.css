@@ -33,6 +33,11 @@ body {
     src: url(PatchworkAlphabet.ttf);
 }
 
+@font-face {
+    font-family: JoanaKBAStitchInTime;
+    src: url(KBAStitchInTime.ttf);
+}
+
 
 ul    
     {
@@ -188,7 +193,7 @@ td {
     font-size: 2.5em;
     font-style: bold;
     text-decoration-color: white;
-    font-family: "KBAStitchInTime";
+    font-family: "JoanaKBAStitchInTime";
     text-align: left;
     color: orangered;
     
