@@ -28,6 +28,11 @@ body {
 }
 
 
+@font-face {
+    font-family: JoanaPatchworkAlphabet;
+    src: url(PatchworkAlphabet.ttf);
+}
+
 
 ul    
     {
@@ -50,7 +55,7 @@ margin: 0px; 0px;3px; 3px;
 
 h1 {
     
-  font-family: "PatchworkAlphabet";
+  font-family: "JoanaPatchworkAlphabet";
     font-weight: 100;
 color:darkgreen;
     font-size: 4em;
